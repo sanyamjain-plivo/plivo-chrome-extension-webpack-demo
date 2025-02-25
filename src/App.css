@@ -1,0 +1,16 @@
+.App {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    width: 15rem;
+    height: 15rem;
+    background-color: rgb(47, 49, 47);
+    border-radius: 10px;
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
