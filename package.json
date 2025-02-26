@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4",
-    "plivo-browser-sdk": "github:sanyamjain-plivo/plivo-github-testing"
+    "plivo-browser-sdk": "^2.2.18-rc.3"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js",
